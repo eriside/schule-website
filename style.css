@@ -27,6 +27,20 @@ span{
 header{
 	font-size: 1.5rem;
 }
+div.wrapper {
+    position:relative;
+    display:block;
+}
+div.wrapper img.img1 {
+    display:block;
+}
+div.wrapper img.img2 {
+    position:absolute;
+    top: 25%;
+    left:25%;
+	width: 50%;
+}
+
 footer{
     bottom: 0%;
 }
